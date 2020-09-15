@@ -1,0 +1,80 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<!-- Make a css file? -->
+<style>
+.column {
+  background-color: #F5FBFA;
+  border-color: black;
+  border: 1px solid #000;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  width: 12%;
+  float: left;
+}
+
+
+.card {
+  background-color: white;
+  border-color: black;
+  border: 1px solid #000;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.btn.btn-primary {
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+</style>
+
+<!-- TODO - needs to be dynamic like the rest-->
+<br>
+Information taken from the movement of cards on the <strong>Transformation Pipeline</strong> project board.
+<br>
+<a href="https://github.com/orgs/GSS-Cogs/projects/8">https://github.com/orgs/GSS-Cogs/projects/8</a>
+<br>
+<br>
+
+<div class="whole-table" style="margin-left: 20px">
+
+<!-- Header row-->
+<div class="row">
+  {% for header in data.header %}
+  <div class="column" style="background-color:#565857;height:50px">
+    <h5 class="card-title" style="color: white;font-weight: bold">{{ header }}</h5>
+  </div>
+  {% endfor %}
+</div>
+<div class="clearfix"></div>
+
+  <!-- Each of the data rows -->
+  {% for row in data.rows %}
+  <div class="row">
+      {% for entry in row %}
+      <div class="column">
+          {% if entry is mapping %}
+          <span class="stretch-to-pane" style="height: 600px">
+            <div class="card">
+              {% for item, url in entry.items() %}
+                      <p class="card-text">{{ item }}</p>
+                      <a href="#" class="btn btn-primary">View Git Issue</a>
+              {% endfor %}
+                          </div>
+          </span> 
+          {% endif %}
+      </div>
+      {% endfor %}
+  </div>
+  {% endfor %}
+
+  </div>
+{% endblock %}

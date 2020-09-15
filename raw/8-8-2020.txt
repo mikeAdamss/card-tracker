@@ -1,0 +1,54 @@
+@mikeAdamss
+@mikeAdamss moved Ofsted-Children-s-Social-Care-data-in-England-2020 from To do to Stage 1 Transform Spec
+18 hours ago
+@RedWalters
+@RedWalters moved BEIS-Lower-and-Middle-Super-Output-Areas-electricity-consumption from To do to Stage 1 Transform
+20 hours ago
+@LPerryman
+@LPerryman moved ONS-Which-occupations-have-the-highest-potential-exposure-to-the-coronavirus-COVID-19 from On PMD with Issues to To Review
+22 hours ago
+@LPerryman
+@LPerryman moved ONS-Online-price-changes-for-high-demand-products from On PMD with Issues to To Review
+22 hours ago
+@LPerryman
+@LPerryman moved ONS-Online-job-advert-estimates from On PMD with Issues to To Review
+22 hours ago
+@LPerryman
+@LPerryman moved NHS-D-Coronavirus-Shielded-Patient-List-Summary-Totals-England from Stage 2 Transform - Alignment to To Review
+22 hours ago
+@RedWalters
+@RedWalters moved ONS-Coronavirus-and-anxiety-estimates from Stage 2 Transform - Alignment to To Review
+yesterday
+@LPerryman
+@LPerryman moved ONS-Deaths-involving-COVID-19-in-the-care-sector-England-and-Wales-deaths-occurring-up-to-1-May-2020-and-registered-up-to-9-May-2020-provisional from Stage 2 Transform - Alignment to To Review
+4 days ago
+@Shannon95
+@Shannon95 moved ONS-Which-occupations-have-the-highest-potential-exposure-to-the-coronavirus-COVID-19 from Stage 2 Transform - Alignment to On PMD with Issues
+7 days ago
+@Shannon95
+@Shannon95 moved NHS-E-COVID-19-Daily-Deaths from Stage 2 Transform - Alignment to To fix
+12 days ago
+@Shannon95
+@Shannon95 moved NHS-E-COVID-19-Daily-Deaths from To fix to Stage 2 Transform - Alignment
+12 days ago
+@Shannon95
+@Shannon95 moved ONS-Online-price-changes-for-high-demand-products from Stage 2 Transform - Alignment to On PMD with Issues
+12 days ago
+@Shannon95
+@Shannon95 moved ONS-Online-job-advert-estimates from Stage 2 Transform - Alignment to On PMD with Issues
+12 days ago
+@MartynBSpooner
+@MartynBSpooner created the column On PMD with Issues.
+12 days ago
+@MartynBSpooner
+@MartynBSpooner moved ONS-Deaths-involving-COVID-19-in-the-care-sector-England-and-Wales-deaths-occurring-up-to-1-May-2020-and-registered-up-to-9-May-2020-provisional from To fix to Stage 2 Transform - Alignment
+12 days ago
+@Grace-W
+@Grace-W moved HO-Statistics-relating-to-Covid-19-and-the-immigration-system-May-2020 from Stage 2 Alignment Spec to Stage 2 Transform - Alignment
+14 days ago
+@Grace-W
+@Grace-W moved HO-Statistics-relating-to-Covid-19-and-the-immigration-system-May-2020 from Stage 2 Transform - Alignment to Stage 2 Alignment Spec
+14 days ago
+@Grace-W
+@Grace-W moved HO-Statistics-relating-to-Covid-19-and-the-immigration-system-May-2020 from Stage 2 Alignment Spec to Stage 2 Transform - Alignment
+14 days ago
