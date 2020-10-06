@@ -94,9 +94,9 @@ class GitService:
         content_url = self.getf(card_url)["content_url"]
         content_title = self.getf(content_url)["title"]
 
-        pprint(self.getf(content_url))
-        import sys
-        sys.exit(1)
+        #pprint(self.getf(content_url))
+        #import sys
+        #sys.exit(1)
         return content_title
 
     def populate_boards(self):
@@ -170,15 +170,10 @@ class GitService:
         """
         Create a numerical summary of what we've gotten off the api
         """
-        summary = {}
-        for boardObj in self.structure.boards:
-            summary[boardObj.name] = {}
-            for columnObj in boardObj.columns:
-                summary[boardObj.name][columnObj.name] = []
-                for articleObj in columnObj.articles:
-                    summary[boardObj.name][columnObj.name].append(articleObj.card.note)
+        for article in self.structure.boards[0].columns[0].articles:
+            print(article.card)
+            print()
 
-        pprint(summary)
 
     def init(self):
         """

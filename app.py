@@ -16,7 +16,7 @@ app = create_app()
 # Parse the activity into something useful
 def get_activity():
     where_we_are = os.path.dirname(os.path.realpath(__file__))
-    with open(where_we_are+"/parsed/8-8-2020.json", "r") as f:
+    with open(where_we_are+"/parsed/22-9-2020.json", "r") as f:
       data = json.load(f)
 
     return data

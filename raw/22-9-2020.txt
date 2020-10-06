@@ -1,0 +1,143 @@
+@LPerryman
+@LPerryman updated Data has been transformed, published to PMD and reviewed successfully. Only one dataset and one measure type can be published at the moment so issue card is kept in this column ready for when we can publish everything (rather than closing off)
+yesterday
+@JimBryant7
+@JimBryant7 moved HMRC-Personal-tax-credits-finalised-award-statistics-small-area-data-LSOA-and-Data-Zone-year from Priority to Stage 1 Transform - DE
+4 days ago
+@LPerryman
+@LPerryman moved BEIS-Lower-and-Middle-Super-Output-Areas-gas-consumption from Stage 2 Transform - DE to To Review - DM & BA
+5 days ago
+@LPerryman
+@LPerryman moved BEIS-Lower-and-Middle-Super-Output-Areas-gas-consumption from Stage 2 Spec - DM to Stage 2 Transform - DE
+5 days ago
+@LPerryman
+@LPerryman moved BEIS-Lower-and-Middle-Super-Output-Areas-electricity-consumption from Stage 2 Transform - DE to To Review - DM & BA
+5 days ago
+@LPerryman
+@LPerryman moved Ofsted-Children-s-Social-Care-data-in-England-2020 from Stage 1 Transform - DE to Hold - BA
+6 days ago
+@LPerryman
+@LPerryman archived Mid year Population Estimates - NOMIS Landing Pages; how to populate Airtable etc. - Tracey and Martyn. HIGH PRIORITY from Stage 1 Transform - DE
+7 days ago
+@LPerryman
+@LPerryman moved ONS-Population-estimates-by-output-areas-electoral-health-and-other-geographies-England-and-Wales from To Do to Stage 1 Transform - DE
+7 days ago
+@ajtucker
+@ajtucker linked the project to GSS-Cogs/family-towns-and-high-streets
+8 days ago
+@ajtucker
+@ajtucker added ONS-Population-estimates-by-output-areas-electoral-health-and-other-geographies-England-and-Wales to To Do
+8 days ago
+@LPerryman
+@LPerryman moved BEIS-Lower-and-Middle-Super-Output-Areas-gas-consumption from Stage 1 Transform - DE to Stage 2 Spec - DM
+8 days ago
+@LPerryman
+@LPerryman moved Ofsted-Children-s-Social-Care-data-in-England-2020 from Stage 2 Spec - DM to Stage 1 Transform - DE
+8 days ago
+@mikeAdamss
+@mikeAdamss moved Mid year Population Estimates - NOMIS Landing Pages; how to populate Airtable etc. - Tracey and Martyn. HIGH PRIORITY from Priority to Stage 1 Transform - DE
+8 days ago
+@mikeAdamss
+@mikeAdamss updated Mid year Population Estimates - NOMIS Landing Pages; how to populate Airtable etc. - Tracey and Martyn. HIGH PRIORITY
+8 days ago
+@mikeAdamss
+@mikeAdamss updated Mid year Population Estimates - NOMIS Landing Pages; how to populate Airtable etc. - Tracey and Martyn. HIGH PRIORITY
+8 days ago
+@mikeAdamss
+@mikeAdamss moved Ofsted-Children-s-Social-Care-data-in-England-2020 from Stage 1 Transform - DE to Stage 2 Spec - DM
+8 days ago
+@LPerryman
+@LPerryman moved HMRC-Child-Benefit-small-area-data from Priority to Stage 2 Transform - DE
+8 days ago
+@LPerryman
+@LPerryman moved BEIS-Lower-and-Middle-Super-Output-Areas-electricity-consumption from Stage 2 Spec - DM to Stage 2 Transform - DE
+8 days ago
+@JimBryant7
+@JimBryant7 moved BEIS-Lower-and-Middle-Super-Output-Areas-gas-consumption from Priority to Stage 1 Transform - DE
+11 days ago
+@Shannon95
+@Shannon95 moved DfT-Journey-times-to-key-services-by-lower-super-output-area from Priority to Stage 1 Transform - DE
+12 days ago
+@Shannon95
+@Shannon95 moved BEIS-LSOA-estimates-of-properties-not-connected-to-the-gas-network from Stage 1 Transform - DE to Stage 2 Spec - DM
+12 days ago
+@RedWalters
+@RedWalters moved BEIS-Lower-and-Middle-Super-Output-Areas-electricity-consumption from Stage 1 Transform - DE to Stage 2 Spec - DM
+12 days ago
+@LPerryman
+@LPerryman moved Mid year Population Estimates - NOMIS Landing Pages; how to populate Airtable etc. - Tracey and Martyn. HIGH PRIORITY from To Do to Priority
+12 days ago
+@LPerryman
+@LPerryman added Mid year Population Estimates - NOMIS Landing Pages; how to populate Airtable etc. - Tracey and Martyn. HIGH PRIORITY to To Do
+12 days ago
+@LPerryman
+@LPerryman moved HMRC-Child-Benefit-small-area-data from Stage 2 Spec - DM to Priority
+13 days ago
+@LPerryman
+@LPerryman moved HMRC-Child-Benefit-small-area-data from Priority to Stage 2 Spec - DM
+13 days ago
+@LPerryman
+@LPerryman updated Dataset(s) are in PMD, either as a draft or published and need to be reviewed based on a set of questions to ensure data matches original and datacube format is sensible. If transform fails QA then add a comment explaining why and move card back to Stage 2 Spec - DM
+13 days ago
+@LPerryman
+@LPerryman moved HMRC-Child-Benefit-small-area-data from Stage 1 Spec - DM to Priority
+13 days ago
+@LPerryman
+@LPerryman moved HMRC-Child-Benefit-small-area-data from Priority to Stage 1 Spec - DM
+13 days ago
+@LPerryman
+@LPerryman moved HMRC-Child-Benefit-small-area-data from Stage 1 Spec - DM to Priority
+13 days ago
+@cadmiumcat
+@cadmiumcat added the purpose In progress to the To Review - DM & BA column.
+13 days ago
+@cadmiumcat
+@cadmiumcat added the purpose In progress to the Stage 2 Transform - DE column.
+13 days ago
+@cadmiumcat
+@cadmiumcat added the purpose In progress to the Stage 2 Spec - DM column.
+13 days ago
+@cadmiumcat
+@cadmiumcat added the purpose In progress to the Stage 1 Transform - DE column.
+13 days ago
+@cadmiumcat
+@cadmiumcat added the purpose In progress to the Stage 1 Spec - DM column.
+13 days ago
+@cadmiumcat
+@cadmiumcat added the purpose In progress to the To Fix - DE column.
+13 days ago
+@cadmiumcat
+@cadmiumcat added the purpose Todo to the To Do column.
+13 days ago
+@cadmiumcat
+@cadmiumcat added the purpose Todo to the Priority column.
+13 days ago
+@LPerryman
+@LPerryman updated Data has been transformed, published to PMD and reviewed successfully.
+14 days ago
+@LPerryman
+@LPerryman renamed the column Hold to Hold - BA.
+14 days ago
+@LPerryman
+@LPerryman added Data has been transformed, published to PMD and reviewed. to Done
+14 days ago
+@LPerryman
+@LPerryman added BAs investigating if data is still valid or if more suitable data source available to Hold
+14 days ago
+@LPerryman
+@LPerryman moved NISRA-Deprivation-NI-and-other-relevant-NISRA-tables from To Do to Hold
+14 days ago
+@LPerryman
+@LPerryman moved HM-Land-Registry-Price-Paid-Data from To Do to Hold
+14 days ago
+@LPerryman
+@LPerryman moved the column Hold.
+14 days ago
+@LPerryman
+@LPerryman created the column Hold.
+14 days ago
+@cadmiumcat
+@cadmiumcat added Issue closed automation to the Done column.
+14 days ago
+@cadmiumcat
+@cadmiumcat added the purpose Done to the Done column.

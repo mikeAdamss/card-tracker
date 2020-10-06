@@ -46,7 +46,8 @@ for raw_file in raw_files:
                 # Should be a move of some kind
                 relevent_bit = " ".join(tokens[3:])
                 if not relevent_bit.startswith("from"):
-                    raise Exception('Cannot parse, expecting "{}" to start with "from": '.format(relevent_bit))
+                    print(Exception('Cannot parse, expecting "{}" to start with "from": '.format(relevent_bit)))
+                    continue
 
                 assert len([x for x in relevent_bit.split(" ") if x == "to"]) == 1,'Aborting, the word "to" appears twice in "{}". It\'ll mess up the parser.'.format(relevent_bit)
 
@@ -79,6 +80,9 @@ for raw_file in raw_files:
             "To Review"
         )
 
+        
+        # thisis confusing nonsense
+        headers = list(columns.keys())
         for header in headers:
             if header not in columns.keys():
                 columns[header] = []
